@@ -1,0 +1,4 @@
+Alpha Version 1.0
+
+-download provided font or else the application getis corrupted
+-after provided .ttf file (din1451alt) downloaded, run SAM.exe
